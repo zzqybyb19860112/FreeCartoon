@@ -1,0 +1,29 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+    <ScrollView
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="90dp"
+        >
+        <ImageView
+            android:id="@+id/main_iv"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            >
+        </ImageView>
+    </ScrollView>
+    <Gallery
+        android:id="@+id/review_gl"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginTop="5dp"
+        android:spacing="2dp"
+        >
+    </Gallery>
+
+</RelativeLayout>

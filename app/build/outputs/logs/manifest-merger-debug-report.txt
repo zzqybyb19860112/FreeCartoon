@@ -1,0 +1,133 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\FreeCartoon\app\src\main\AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from E:\FreeCartoon\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from E:\FreeCartoon\app\src\main\AndroidManifest.xml
+		INJECTED from E:\FreeCartoon\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\FreeCartoon\app\src\main\AndroidManifest.xml
+		INJECTED from E:\FreeCartoon\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\FreeCartoon\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from E:\FreeCartoon\app\src\main\AndroidManifest.xml
+		INJECTED from E:\FreeCartoon\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from E:\FreeCartoon\app\src\main\AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from E:\FreeCartoon\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from E:\FreeCartoon\app\src\main\AndroidManifest.xml:7:5-28:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\zzqybyb19860112\.android\build-cache\b784a7fb654bd6f1378bdb6df95bc60458bf48ab\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\zzqybyb19860112\.android\build-cache\aed447c553b795e2fafcd856bf32c49541ba1723\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\zzqybyb19860112\.android\build-cache\2707a93a54f795841f7d3071620a82009b9213d9\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\zzqybyb19860112\.android\build-cache\ece6c28342399a322b70cd4b423533452efbb5f4\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\zzqybyb19860112\.android\build-cache\3cfc7393be61aa48715a1f3ff38b61ad35be4b2f\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\zzqybyb19860112\.android\build-cache\dbd444547320f0f45cf19b17f769a993c1ccd620\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\zzqybyb19860112\.android\build-cache\234c9b52af58bc835a6e1ff5314bc20abec66689\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\zzqybyb19860112\.android\build-cache\873055b9dcd415de2d3512e3722c21eb075fcaf1\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\zzqybyb19860112\.android\build-cache\f83ef41549e204a7e1bdcad650f3ca3485daa980\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\zzqybyb19860112\.android\build-cache\40038393a71944416f9b9c3cd5281019ae2a8f41\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\zzqybyb19860112\.android\build-cache\9ddd41eeeed099e75548fc3e0a8e5c5040ff7e05\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\zzqybyb19860112\.android\build-cache\3bc34e647649aeb7e57ed6b8eb742b3c661eaec9\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from E:\FreeCartoon\app\src\main\AndroidManifest.xml:11:9-41
+	android:supportsRtl
+		ADDED from E:\FreeCartoon\app\src\main\AndroidManifest.xml:13:9-35
+	android:roundIcon
+		ADDED from E:\FreeCartoon\app\src\main\AndroidManifest.xml:12:9-54
+	android:allowBackup
+		ADDED from E:\FreeCartoon\app\src\main\AndroidManifest.xml:9:9-35
+	android:icon
+		ADDED from E:\FreeCartoon\app\src\main\AndroidManifest.xml:10:9-43
+	android:theme
+		ADDED from E:\FreeCartoon\app\src\main\AndroidManifest.xml:14:9-40
+	android:name
+		ADDED from E:\FreeCartoon\app\src\main\AndroidManifest.xml:8:9-28
+activity#com.ybyb.zzq.freecartoon.ui.GuideActivity
+ADDED from E:\FreeCartoon\app\src\main\AndroidManifest.xml:15:9-20:20
+	android:name
+		ADDED from E:\FreeCartoon\app\src\main\AndroidManifest.xml:15:19-51
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\FreeCartoon\app\src\main\AndroidManifest.xml:16:13-19:29
+action#android.intent.action.MAIN
+ADDED from E:\FreeCartoon\app\src\main\AndroidManifest.xml:17:17-68
+	android:name
+		ADDED from E:\FreeCartoon\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\FreeCartoon\app\src\main\AndroidManifest.xml:18:17-76
+	android:name
+		ADDED from E:\FreeCartoon\app\src\main\AndroidManifest.xml:18:27-74
+activity#com.ybyb.zzq.freecartoon.ui.cartoon.young.YoungCartoonActivity
+ADDED from E:\FreeCartoon\app\src\main\AndroidManifest.xml:21:9-74
+	android:name
+		ADDED from E:\FreeCartoon\app\src\main\AndroidManifest.xml:21:19-72
+activity#com.ybyb.zzq.freecartoon.ui.cartoon.child.ChildCartoonActivity
+ADDED from E:\FreeCartoon\app\src\main\AndroidManifest.xml:22:9-74
+	android:name
+		ADDED from E:\FreeCartoon\app\src\main\AndroidManifest.xml:22:19-72
+activity#com.ybyb.zzq.freecartoon.ui.cartoon.girl.GirlCartoonActivity
+ADDED from E:\FreeCartoon\app\src\main\AndroidManifest.xml:23:9-72
+	android:name
+		ADDED from E:\FreeCartoon\app\src\main\AndroidManifest.xml:23:19-70
+activity#com.ybyb.zzq.freecartoon.ui.cartoon.usa.USACartoonActivity
+ADDED from E:\FreeCartoon\app\src\main\AndroidManifest.xml:24:9-70
+	android:name
+		ADDED from E:\FreeCartoon\app\src\main\AndroidManifest.xml:24:19-68
+activity#com.ybyb.zzq.freecartoon.ui.look.ChapterActivity
+ADDED from E:\FreeCartoon\app\src\main\AndroidManifest.xml:25:9-60
+	android:name
+		ADDED from E:\FreeCartoon\app\src\main\AndroidManifest.xml:25:19-58
+activity#com.ybyb.zzq.freecartoon.ui.detail.CartoonActivity
+ADDED from E:\FreeCartoon\app\src\main\AndroidManifest.xml:26:9-62
+	android:name
+		ADDED from E:\FreeCartoon\app\src\main\AndroidManifest.xml:26:19-60
+activity#com.ybyb.zzq.freecartoon.ui.main.MainActivity
+ADDED from E:\FreeCartoon\app\src\main\AndroidManifest.xml:27:9-57
+	android:name
+		ADDED from E:\FreeCartoon\app\src\main\AndroidManifest.xml:27:19-55
+uses-sdk
+INJECTED from E:\FreeCartoon\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [io.realm:realm-android-library:3.3.1] C:\Users\zzqybyb19860112\.android\build-cache\e93d164e11b8faf0cc37e25405f274c43fedfa85\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.getkeepsafe.relinker:relinker:1.2.2] C:\Users\zzqybyb19860112\.android\build-cache\139a7abe3dfa51e41b419c10293625494240cf2b\output\AndroidManifest.xml:7:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\zzqybyb19860112\.android\build-cache\b784a7fb654bd6f1378bdb6df95bc60458bf48ab\output\AndroidManifest.xml:5:5-7:41
+MERGED from [io.reactivex:rxandroid:1.0.1] C:\Users\zzqybyb19860112\.android\build-cache\dab98954a58399642924df354a41375e6f1bc2a2\output\AndroidManifest.xml:19:5-43
+MERGED from [com.android.support:design:25.3.1] C:\Users\zzqybyb19860112\.android\build-cache\aed447c553b795e2fafcd856bf32c49541ba1723\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\zzqybyb19860112\.android\build-cache\2707a93a54f795841f7d3071620a82009b9213d9\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\zzqybyb19860112\.android\build-cache\ece6c28342399a322b70cd4b423533452efbb5f4\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\zzqybyb19860112\.android\build-cache\3cfc7393be61aa48715a1f3ff38b61ad35be4b2f\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\zzqybyb19860112\.android\build-cache\42a78239a07c63322dae4a48b59994eee9a891aa\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\zzqybyb19860112\.android\build-cache\dbd444547320f0f45cf19b17f769a993c1ccd620\output\AndroidManifest.xml:20:5-44
+MERGED from [FreeCartoon:library:unspecified] E:\FreeCartoon\library\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\zzqybyb19860112\.android\build-cache\234c9b52af58bc835a6e1ff5314bc20abec66689\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\zzqybyb19860112\.android\build-cache\873055b9dcd415de2d3512e3722c21eb075fcaf1\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\zzqybyb19860112\.android\build-cache\f83ef41549e204a7e1bdcad650f3ca3485daa980\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\zzqybyb19860112\.android\build-cache\40038393a71944416f9b9c3cd5281019ae2a8f41\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\zzqybyb19860112\.android\build-cache\9ddd41eeeed099e75548fc3e0a8e5c5040ff7e05\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\zzqybyb19860112\.android\build-cache\3bc34e647649aeb7e57ed6b8eb742b3c661eaec9\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\zzqybyb19860112\.android\build-cache\aed447c553b795e2fafcd856bf32c49541ba1723\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from E:\FreeCartoon\app\src\main\AndroidManifest.xml
+		INJECTED from E:\FreeCartoon\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\FreeCartoon\app\src\main\AndroidManifest.xml
+		INJECTED from E:\FreeCartoon\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\zzqybyb19860112\.android\build-cache\aed447c553b795e2fafcd856bf32c49541ba1723\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\zzqybyb19860112\.android\build-cache\2707a93a54f795841f7d3071620a82009b9213d9\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\zzqybyb19860112\.android\build-cache\ece6c28342399a322b70cd4b423533452efbb5f4\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\zzqybyb19860112\.android\build-cache\3cfc7393be61aa48715a1f3ff38b61ad35be4b2f\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\zzqybyb19860112\.android\build-cache\42a78239a07c63322dae4a48b59994eee9a891aa\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\zzqybyb19860112\.android\build-cache\dbd444547320f0f45cf19b17f769a993c1ccd620\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\zzqybyb19860112\.android\build-cache\234c9b52af58bc835a6e1ff5314bc20abec66689\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\zzqybyb19860112\.android\build-cache\873055b9dcd415de2d3512e3722c21eb075fcaf1\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\zzqybyb19860112\.android\build-cache\f83ef41549e204a7e1bdcad650f3ca3485daa980\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\zzqybyb19860112\.android\build-cache\40038393a71944416f9b9c3cd5281019ae2a8f41\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\zzqybyb19860112\.android\build-cache\9ddd41eeeed099e75548fc3e0a8e5c5040ff7e05\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\zzqybyb19860112\.android\build-cache\3bc34e647649aeb7e57ed6b8eb742b3c661eaec9\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\zzqybyb19860112\.android\build-cache\aed447c553b795e2fafcd856bf32c49541ba1723\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\zzqybyb19860112\.android\build-cache\aed447c553b795e2fafcd856bf32c49541ba1723\output\AndroidManifest.xml:26:9-47

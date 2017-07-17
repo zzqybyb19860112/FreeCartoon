@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+    <ImageView
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:id="@+id/home_iv"
+        android:layout_margin="3dp"
+        android:scaleType="fitXY"
+        android:layout_gravity="center"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"
+        android:textColor="#ff00ff"
+        android:text="        动漫，即动画和漫画的合称，指动画与漫画的集合，取这两个词的第一个字合二为一称之为“动漫”，并非专业术语。“动漫”一词，可考最早出处为1993年创办的动漫出版同业协进会于1998年11月创刊的动漫资讯类月刊《动漫时代》，后经由《漫友》杂志传开，因概括性强在中国大陆地区的使用开始普及起来。
+         \n       当今在中国大陆地区，有许多人将”动漫“的概念与“动画“的概念混为一谈，认为动漫就是动画，这其实是一种错误的观点。“动漫”实际上是“动画”和“漫画”的结合称呼。但是由于词性的模糊和词语本身具有的双重属性，会使人产生不同的误解，进而产生各种各样的分歧，所以在具体的作品的使用中应使用“漫画”和“动画”加以区别。"
+        />
+    <TextView
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:textColor="#ff0000"
+        android:layout_marginTop="30dp"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:id="@+id/guide_tv"
+        android:lines="2"
+        />
+</LinearLayout>

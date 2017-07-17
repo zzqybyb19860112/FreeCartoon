@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FreeCartoon</string>
+    <string name="title_activity_child_cartoon">ChildCartoonActivity</string>
+    <string name="title_activity_girl_cartoon">GirlCartoonActivity</string>
+</resources>
